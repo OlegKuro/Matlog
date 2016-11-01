@@ -2,6 +2,7 @@
 #include <vector>
 #include <stdio.h>
 #include <iostream>
+#include <Windows.h>
 #include <string>
 #include <map>
 
@@ -284,5 +285,6 @@ int main() {
 		}
 		step++;
 	}
+	//system("pause");
 	return 0;
 }
